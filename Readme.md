@@ -1,12 +1,15 @@
 # 4-Bit Summaator ja quickRTS
 
 ## 4-Bit Summaator
-- Punasega märkmed. 
-- Teisipäeva öö jooksul peaks jutu valmis saama.
-- Kolmapäeval pildid sekka, viimane kontroll ja tehtud.
-	- Äkki saab printida ka? 
-- Neljapäev printimine + esitamine
-- Lisasin Mihkel Tarvise töö, et vormistust kergem teha oleks. 
+- Enamus jutust olemas.
+- Puudu veel
+	- Kasutatud kirjandus
+	- Lisad
+	- 3.3, 3.5, 3.6 vajaksid täiendust.
+	- 2.2 tahab jooniseid
+	- Trükkplaadil summeerimine tahab täiendust.
+	- Vormistust üle vaadata.
+	- Resume pikemaks?
 
 ## quickRTS
 - Framework: Pygame
