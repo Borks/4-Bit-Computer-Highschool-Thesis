@@ -1,15 +1,10 @@
 # 4-Bit Summaator ja quickRTS
 
 ## 4-Bit Summaator
-- Enamus jutust olemas.
-- Puudu veel
-	- Kasutatud kirjandus
-	- Lisad
-	- 3.3, 3.5, 3.6 vajaksid täiendust.
-	- 2.2 tahab jooniseid
-	- Trükkplaadil summeerimine tahab täiendust.
-	- Vormistust üle vaadata.
-	- Resume pikemaks?
+- Lisasin teksti ja lisad
+- Kogu töö tuleks nüüd üle lugeda. 
+- Vormistus? 
+- Kasutatud kirjandus on poolik, ja väga imelik. 
 
 ## quickRTS
 - Framework: Pygame
