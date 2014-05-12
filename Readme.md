@@ -1,10 +1,9 @@
 # 4-Bit Summaator ja quickRTS
 
 ## 4-Bit Summaator
-- Lisasin teksti ja lisad
-- Kogu töö tuleks nüüd üle lugeda. 
-- Vormistus? 
-- Kasutatud kirjandus on poolik, ja väga imelik. 
+- Kasutatud kirjandus nagu tehtud, vormistus näeb ka parem välja.
+- Üle lugeda veel.
+- Printida? 
 
 ## quickRTS
 - Framework: Pygame
